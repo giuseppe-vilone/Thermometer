@@ -8,3 +8,6 @@ A Java graphic application. It generate temperature random values within an deli
 
 ## Usage
 Type "java -jar Thermometer.jar" in a terminal window or run exec.bat file (Microsoft Windows only)
+
+## Note
+The file "LabVIEWSample.vi" is a LabView implementation of the same application.
